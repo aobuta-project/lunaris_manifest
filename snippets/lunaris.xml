@@ -90,7 +90,7 @@
   <project path="packages/apps/Dialer" name="Ghosuto/packages_apps_Dialer" groups="pdk-fs" remote="ghosuto" />
   <project path="packages/apps/DocumentsUI" name="Lunaris-AOSP/packages_apps_DocumentsUI" groups="pdk-cw-fs,pdk-fs" remote="lunaris" />
   <project path="packages/apps/FaceUnlock" name="Lunaris-AOSP/packages_apps_FaceUnlock" remote="lunaris" />
-  <project path="packages/apps/GameSpace" name="Lunaris-AOSP/packages_apps_GameSpace" remote="lunaris" />
+  <project path="packages/apps/GameSpace" name="Lunaris-AOSP/packages_apps_GameSpace" remote="lunaris" revision="test" />
   <project path="packages/apps/Launcher3" name="Lunaris-AOSP/packages_apps_Launcher3" groups="pdk-fs,sysui-studio,pdk-cw-tvc" remote="lunaris" revision="test" />
   <project path="packages/apps/LineageParts" name="Lunaris-AOSP/packages_apps_LineageParts" remote="lunaris" />
   <project path="packages/apps/LMOFreeform" name="Lunaris-AOSP/packages_apps_LMOFreeform" remote="lunaris" />
