@@ -48,11 +48,11 @@
   <project path="external/zlib-ng" name="Lunaris-AOSP/external_zlib-ng" groups="pdk" remote="lunaris" />
 
   <project path="frameworks/av" name="Lunaris-AOSP/frameworks_av" groups="pdk,sysui-studio" remote="lunaris" />
-  <project path="frameworks/base" name="Lunaris-AOSP/frameworks_base" groups="pdk-cw-fs,pdk-fs,sysui-studio" remote="lunaris" />
+  <project path="frameworks/base" name="aobuta-project/frameworks_base" groups="pdk-cw-fs,pdk-fs,sysui-studio" remote="lunaris" />
   <project path="frameworks/libs/systemui" name="Lunaris-AOSP/frameworks_libs_systemui" groups="pdk-cw-fs,pdk-fs,sysui-studio" remote="lunaris" />
   <project path="frameworks/native" name="Lunaris-AOSP/frameworks_native" groups="pdk" remote="lunaris" />
   <project path="frameworks/opt/net/wifi" name="Lunaris-AOSP/frameworks_opt_net_wifi" groups="pdk,sysui-studio" remote="lunaris" />
-  <project path="frameworks/opt/telephony" name="Lunaris-AOSP/frameworks_opt_telephony" groups="pdk,sysui-studio" remote="lunaris" />
+  <project path="frameworks/opt/telephony" name="aobuta-project/frameworks_opt_telephony" groups="pdk,sysui-studio" remote="lunaris" />
 
   <project path="hardware/interfaces" name="Lunaris-AOSP/hardware_interfaces" groups="pdk,sysui-studio" remote="lunaris" />
 
@@ -87,7 +87,7 @@
   <project path="packages/apps/Updater" name="Lunaris-AOSP/packages_apps_Updater" remote="lunaris" />
   <project path="packages/apps/WallpaperPicker2" name="Lunaris-AOSP/packages_apps_WallpaperPicker2" groups="pdk-fs,sysui-studio" remote="lunaris" />
   <project path="packages/inputmethods/LatinIME" name="Lunaris-AOSP/packages_inputmethods_LatinIME" groups="pdk-fs" remote="lunaris" />
-  <project path="packages/modules/Bluetooth" name="Lunaris-AOSP/packages_modules_Bluetooth" groups="pdk" remote="lunaris" />
+  <project path="packages/modules/Bluetooth" name="aobuta-project/packages_modules_Bluetooth" groups="pdk" remote="lunaris" />
   <project path="packages/modules/Connectivity" name="Lunaris-AOSP/packages_modules_Connectivity" groups="pdk-cw-fs,pdk-fs" remote="lunaris" />
   <project path="packages/modules/Permission" name="Lunaris-AOSP/packages_modules_Permission" groups="pdk-cw-fs,pdk-fs" remote="lunaris" />
   <project path="packages/modules/StatsD" name="Lunaris-AOSP/packages_modules_StatsD" groups="pdk-cw-fs,pdk-fs" remote="lunaris" />
@@ -110,7 +110,7 @@
   <project path="vendor/extras" name="Lunaris-AOSP/vendor_extras" remote="lunaris" />
   <project path="vendor/prebuilts" name="Lunaris-AOSP/vendor_prebuilts" remote="lunaris" />
   <project path="vendor/certification" name="Lunaris-AOSP/vendor_certification" remote="lunaris" />
-  <project path="vendor/lineage" name="Lunaris-AOSP/vendor_lineage" remote="lunaris" />
+  <project path="vendor/lineage" name="aobuta-project/vendor_lineage" remote="lunaris" />
   <project path="vendor/pixel/extract-utils" name="GhosutoX/vendor_pixel_extract-utils" remote="lunaris-gitlab" >
     <linkfile src="extract-all.sh" dest="vendor/pixel/extract-all.sh" />
   </project>
