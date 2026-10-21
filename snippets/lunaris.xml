@@ -15,7 +15,7 @@
            revision="refs/heads/16" />
 
   <!-- lunaris additions -->
-  <project path="android" name="Lunaris-AOSP/android" remote="lunaris" />
+  <project path="android" name="aobuta-project/lunaris_manifest" remote="lunaris" />
 
   <project path="build/make" name="Lunaris-AOSP/build_make" groups="pdk,sysui-studio" remote="lunaris" >
     <linkfile src="CleanSpec.mk" dest="build/CleanSpec.mk" />
